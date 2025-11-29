@@ -1,33 +1,34 @@
 {
-  "id": "A-Font-Pack",
-  "title": "A Font Pack",
-  "description": "Adds a large collection of retro, CRT, and horror fonts for use in Foundry VTT journals, UIs, and handouts.",
-  "version": "0.1.0",
-  "compatibility": {
-    "minimum": "10",
-    "verified": "13",
-    "maximum": "13"
-  },
-  "authors": [
-    {
-      "name": "Dr Perky",
-      "url": ""
-    }
-  ],
-  "esmodules": [],
-  "scripts": ["scripts/A-Font-Pack.js"],
-  "styles": [
-    "styles/fonts.css"
-  ],
-  "packs": [],
-  "languages": [],
-  "relationships": {
-    "systems": [],
-    "requires": [],
-    "recommends": []
-  },
-  "flags": {}
-  "manifest": {"https://raw.githubusercontent.com/Dr-Perky-VTT/A-Font-Pack/refs/heads/main/Module.json"}
-  "url": {"https://github.com/Dr-Perky-VTT/A-Font-Pack/tree/main"}
-  "download": {"https://github.com/Dr-Perky-VTT/A-Font-Pack/archive/refs/tags/font.zip"}
+    "id": "A-Font-Pack",
+    "title": "A Font Pack",
+    "description": "Adds a large collection of retro, CRT, and horror fonts for use in Foundry VTT journals, UIs, and handouts.",
+    "version": "0.1.0",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "13",
+        "maximum": "13"
+    },
+    "authors": [
+        {
+            "name": "Dr Perky",
+            "url": ""
+        }
+    ],
+    "esmodules": [
+        "scripts/A-Font-Pack.js"
+    ],
+    "styles": [
+        "styles/fonts.css"
+    ],
+    "packs": [],
+    "languages": [],
+    "relationships": {
+        "systems": [],
+        "requires": [],
+        "recommends": []
+    },
+    "flags": {},
+    "manifest": "https://raw.githubusercontent.com/Dr-Perky-VTT/A-Font-Pack/refs/heads/main/module.json",
+    "url": "https://github.com/Dr-Perky-VTT/A-Font-Pack/tree/main",
+    "download": "https://github.com/Dr-Perky-VTT/A-Font-Pack/archive/refs/tags/font.zip"
 }
