@@ -1,0 +1,30 @@
+{
+  "id": "A-Font-Pack",
+  "title": "A Font Pack",
+  "description": "Adds a large collection of retro, CRT, and horror fonts for use in Foundry VTT journals, UIs, and handouts.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "authors": [
+    {
+      "name": "Dr Perky",
+      "url": ""
+    }
+  ],
+  "esmodules": [],
+  "scripts": ["scripts/A-Font-Pack.js"],
+  "styles": [
+    "styles/fonts.css"
+  ],
+  "packs": [],
+  "languages": [],
+  "relationships": {
+    "systems": [],
+    "requires": [],
+    "recommends": []
+  },
+  "flags": {}
+}
